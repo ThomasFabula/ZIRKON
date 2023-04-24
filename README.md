@@ -1,4 +1,4 @@
 # ZIRKON
 
-Laser-Spektroskopie - Experimentell Messungen 
+Laser-Spektroskopie - Experimentelle Messungen, 
 Messwerte für ZIRKON - program display_fluodata

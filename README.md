@@ -14,12 +14,11 @@
 - https://tfconsult.com/echtzeit-messwerterfassung/
 
 ### Publication
+Journal of Physics E: Scientific Instruments:
 - https://iopscience.iop.org/article/10.1088/0022-3735/21/12/005/meta;jsessionid=6B7FFF93298B8FC3BD7527FD80350A81.c1.iopscience.cld.iop.org
 - https://iopscience.iop.org/article/10.1088/0022-3735/21/12/005
-
-- Journal of Physics E: Scientific Instruments
 - Real-time data acquisition system for laser and radio frequency spectroscopy
-- T Brenner1, S Buttgenbach1, T Fabula1 and W Rupprecht1
+- T Brenner, S Buttgenbach, T Fabula and W Rupprecht
 - Published under licence by IOP Publishing Ltd
 - Journal of Physics E: Scientific Instruments, Volume 21, Number 12
 - Citation T Brenner et al 1988 J. Phys. E: Sci. Instrum. 21 1150

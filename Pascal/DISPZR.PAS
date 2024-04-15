@@ -1,9 +1,9 @@
 program display_fluodata;
 
 
-{$I typedef.sys}          { System unabhängige Typendefinitionen     }
-{$I graphix.sys}          { System abhängige Definitionen & Routinen }
-{$I kernel.sys}           { System unabhängige Support Routinen      }
+{$I typedef.sys}          { System unabhÃ¤ngige Typendefinitionen     }
+{$I graphix.sys}          { System abhÃ¤ngige Definitionen & Routinen }
+{$I kernel.sys}           { System unabhÃ¤ngige Support Routinen      }
 
 
 var  fil             : file of byte;
@@ -33,7 +33,7 @@ begin
   clrscr;
   screens:=0;
   titel:='ZrI - Spektrum,  a 3 F 3 -> z 3 F 3,  614.320 nm';
-  writeln('FLUO-Meßdatenkonvertierung:');
+  writeln('FLUO-MeÃŸdatenkonvertierung:');
   writeln('===========================');
   writeln;
   {
@@ -56,7 +56,7 @@ begin
 end;
 
 {-----------------------------------------------}
-{-----  Meßdatei einlesen & konvertieren  ------}
+{-----  MeÃŸdatei einlesen & konvertieren  ------}
 {-----------------------------------------------}
 
 procedure init_array;
@@ -94,7 +94,7 @@ begin
     read(fil,stuff);
     end;
 
-    { Bis Ende Screen überlesen }
+    { Bis Ende Screen ÂÃ¼berlesen }
     for i:=1 to 24 do read(fil,stuff);
 
     { Screens konvertieren }
@@ -128,7 +128,7 @@ procedure bild;
 var  ii : integer;
 begin
   gy_max:=1.25*y_max;
-  { Akustisches Zeichen für Grafikaufbau }
+  { Akustisches Zeichen fÃ¼r Grafikaufbau }
   writeln(#7);
   InitGraphic;
   SelectScreen(1);
@@ -183,7 +183,7 @@ begin
   {  gotoxy(70,24); write('Freq.[MHz]'); }
   readln(cha);
   LeaveGraphic;
-  writeln('Max. Zählrate : ',y_max:10:0);
+  writeln('Max. ZÃ¤hlrate : ',y_max:10:0);
   writeln('Display beendet.');
 end;
 

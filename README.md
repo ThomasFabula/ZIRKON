@@ -37,5 +37,5 @@ Es wird ein kostengünstiges Echtzeit-Datenerfassungssystem beschrieben, das ein
 Atomspektroskopie verwendet. Der Master- und der Slave-Computer sind durch einen parallelen Hochgeschwindigkeits-FIFO-Puffer verbunden, der die 
 Datenerfassung nach einem festen Zeitplan mit einer Zeitauflösung von 4 mu s ermöglicht. Eine modulare Schnittstellenbox ermöglicht es dem System, 
 komplexe spektroskopische Experimente zu steuern. Die Verwendung kommerzieller Softwarepakete ermöglicht eine schnelle und effiziente Datenreduktion
-und -analyse auf demselben Computersystem. Die Leistungsfähigkeit des Systems wurde in einem Polarisationsspektroskopie-Experiment an Zirkonium 
+und -analyse auf demselben Computersystem. Die Leistungsfähigkeit des Systems wurde in einem Polarisationsspektroskopie-Experiment an Zirkon 
 nachgewiesen.

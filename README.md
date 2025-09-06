@@ -5,7 +5,7 @@
 - Experimentelle Messungen 
 
 ## Messungen / measurements
-- Messwerte für ZIRKON 
+- Messwerte für ZIRKON Spektren 
 - program display_fluodata
 
 ## Further information 

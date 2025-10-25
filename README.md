@@ -39,3 +39,11 @@ Datenerfassung nach einem festen Zeitplan mit einer Zeitauflösung von 4 mu s er
 komplexe spektroskopische Experimente zu steuern. Die Verwendung kommerzieller Softwarepakete ermöglicht eine schnelle und effiziente Datenreduktion
 und -analyse auf demselben Computersystem. Die Leistungsfähigkeit des Systems wurde in einem Polarisationsspektroskopie-Experiment an Zirkon 
 nachgewiesen.
+
+#### Français
+Cet article décrit un système économique d'acquisition de données en temps réel qui utilise un ordinateur maître (PC-XT) et un ordinateur esclave (Z80) 
+pour la spectroscopie atomique haute résolution. Les ordinateurs maître et esclave sont reliés par un tampon FIFO parallèle à grande vitesse qui permet
+l'acquisition de données selon un calendrier fixe avec une résolution temporelle de 4 µs. Un boîtier d'interface modulaire permet au système de contrôler 
+des expériences spectroscopiques complexes. L'utilisation de progiciels commerciaux permet une réduction et une analyse rapides et efficaces des
+données sur le même système informatique. Les performances du système ont été démontrées dans le cadre d'une expérience de spectroscopie de 
+polarisation sur du zircon.
